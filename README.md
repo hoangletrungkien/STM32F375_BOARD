@@ -1,6 +1,6 @@
 # STM32H745 Industrial Control Board — 4-Layer PCB
 
-![3D Render](docs/render.png)
+![3D Render](render_top.png)
 
 > **Status:** Design Complete — DRC Clean  
 > **Tool:** Altium Designer | **PCB:** 4-Layer, JLCPCB stackup  
@@ -174,7 +174,7 @@ USB D+/D− are exposed to the outside world and prone to ESD events. TVS diode 
 | `schematic.pdf`          | Power supply sheet  |
 | `layout_top.png`    | PCB layout — top    |
 | `layout_bottom.png` | PCB layout — bottom |
-| `render.png`        | Altium 3D render    |
+| `render_top.png`        | Altium 3D render    |
 
 ---
 
