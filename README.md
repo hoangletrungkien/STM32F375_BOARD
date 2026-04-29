@@ -172,9 +172,9 @@ USB D+/D− are exposed to the outside world and prone to ESD events. TVS diode 
 | File                     | Description         |
 | ------------------------ | ------------------- |
 | `schematic.pdf`          | Power supply sheet  |
-| `docs/layout_top.png`    | PCB layout — top    |
-| `docs/layout_bottom.png` | PCB layout — bottom |
-| `docs/render.png`        | Altium 3D render    |
+| `layout_top.png`    | PCB layout — top    |
+| `layout_bottom.png` | PCB layout — bottom |
+| `render.png`        | Altium 3D render    |
 
 ---
 
